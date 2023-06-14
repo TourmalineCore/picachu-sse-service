@@ -1,4 +1,4 @@
-# picachu-sse-service
+# tourmanique-sse-service
 
 ## Installation
 
